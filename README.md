@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rambosan , live in Japan.
+- 👋 Hi, I’m @Rambosan. I work for a manufacturing company in Japan.
 - 👀 I’m interested in C# /.NET / Python / Microsoft / PowerPlatform
 - 🌱 I’m currently learning PowerPlatform especialy PowerApps.
 - 💞️ I’m looking to collaborate on xxx
